@@ -72,7 +72,10 @@ let playerLevel = 1;
 PROMPT: Now ask Gemini to give you three examples of JavaScript string variables that are declared (created) using the keyword `const`.  Tell Gemini to write the variable names in camel case.  Write the answer Gemini gives you below.
 
 ```javascript
-// Write the example code Gemini gives you inside this code block
+//
+const shippingAddress = "123 Maple Street";
+const recipientPhone = "555-0199";
+const deliveryInstructions = "Leave at the front gate.";
 
 
 ```
