@@ -46,11 +46,11 @@ Before we touch the keyboard, I want to see your blueprint. Imagine you are buil
 
 1. Which piece of data about a player would stay the same forever (requiring a "safe"), and which might change as the player plays (requiring a "box")?
 
-If you were building a profile for a gaming account your account id or username would most likely be staying the same forever, requiring a safe (const). If you were, however, changing a piece of data as the player plays, you would want the container to be more like a cardboard box (let).
+If you were building a profile for a gaming account, your account id or username would most likely be staying the same forever, requiring a safe (const). If you were, however, changing a piece of data as the player plays, you would want the container to be more like a cardboard box (let).
 
 3. If you had to explain the `=` symbol to a non-coder using the analogy of a "bucket" and a "ball," how would you describe it?
 
-If I were to explain the `=` symbol to a non-coder using the analogy of a "bucket" and a "ball," I would first describe the bucket as a container for data, and the ball as a piece of data. I would give the container and piece of data a name like "FirstName" and "Noah". Then I would explain that the `=` symbol ties the bucket and ball together and helps you decide what data (the ball/Noah) goes into what container (the bucket/FirstName).
+If I were to explain the `=` symbol to a non-coder using the analogy of a "bucket" and a "ball," I would first describe the bucket as a container for data, and the ball as a piece of data. I would give the container and piece of data names, like "FirstName" and "Noah". I would then explain that the `=` symbol ties the bucket and ball together and helps you decide what data (the ball/Noah) goes into what container (the bucket/FirstName).
 
 ---
 
