@@ -46,11 +46,11 @@ Before we touch the keyboard, I want to see your blueprint. Imagine you are buil
 
 1. Which piece of data about a player would stay the same forever (requiring a "safe"), and which might change as the player plays (requiring a "box")?
 
-*Answer here...*
+If you were building a profile for a gaming account your account id or username would most likely be staying the same forever, requiring a safe (const). If you were, however, changing a piece of data as the player plays, you would want the container to be more like a cardboard box (let).
 
 3. If you had to explain the `=` symbol to a non-coder using the analogy of a "bucket" and a "ball," how would you describe it?
 
-*Answer here...*
+If I were to explain the `=` symbol to a non-coder using the analogy of a "bucket" and a "ball," I would first describe the bucket as a container for data, and the ball as a piece of data. I would give the container and piece of data a name like "FirstName" and "Noah". Then I would explain that the `=` symbol ties the bucket and ball together and helps you decide what data (the ball/Noah) goes into what container (the bucket/FirstName).
 
 ---
 
@@ -72,12 +72,10 @@ let playerLevel = 1;
 PROMPT: Now ask Gemini to give you three examples of JavaScript string variables that are declared (created) using the keyword `const`.  Tell Gemini to write the variable names in camel case.  Write the answer Gemini gives you below.
 
 ```javascript
-//
+// Gemini response to writing 3 variables in the context of an online retailers shipping form
 const shippingAddress = "123 Maple Street";
 const recipientPhone = "555-0199";
 const deliveryInstructions = "Leave at the front gate.";
-
-
 ```
 
 **Your Turn:**
@@ -87,6 +85,7 @@ Add your answer to the JavaScript code block below.
 
 ```javascript
 // Write your answer below this JavaScript comment
+//Lead Developer: Noah Hansel | Project: Untitled Project | Version: 1.0 | 2026
 
 
 ```
