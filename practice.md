@@ -11,7 +11,10 @@ footer    { grid-area: footer; }
 ```html
 <p>lorem ipsum</p>
 ```
+---
 https://www.w3schools.com/js/default.asp
+
 -**JavaScript can change CSS styling**
+
 -*Javascript can hide or show HTML elements*
 
