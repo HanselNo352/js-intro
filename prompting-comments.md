@@ -36,11 +36,11 @@ Comments are lines of text that the computer completely ignores, yet they are so
 ### 📝 Think & Record
 
 * **What is the main reason developers add comments to their code?**
-* *Type here...*
+* Developers add comments to their code to explain why a certain section of code is there. Commenting helps future you and your team members maintain code without wondering why it's there in the first place.
 
 
 * **What made the example of a vague comment difficult to understand?**
-* *Type here...*
+* The vague comment didn't provide an actual reason for its existence. The vague comment is redundant and just makes the code harder to read by repeating what the code already says.
 
 
 
@@ -53,11 +53,11 @@ Comments are lines of text that the computer completely ignores, yet they are so
 ### 📝 Think & Record
 
 * **What symbols do you use for a single-line comment?**
-* *Type here...*
+* You should use two forward slashes to start a single-line comment.
 
 
 * **What symbols allow a multi-line comment to wrap on your screen?**
-* *Type here...*
+* You open a multi-line comment with /* and end it with */. Multi-line comments work as bookends that can span between multiple lines of code.
 
 
 
@@ -74,11 +74,11 @@ Sometimes, the best use of a comment is to temporarily hide code from the browse
 ### 📝 Think & Record
 
 * **How does commenting out code actually help you improve your code?**
-* *Type here...*
+* Commenting out code is a great tool for debugging and preventing code loss. At the end of the day, commenting out code increases your productivity and makes your life easier.
 
 
 * **What is the keyboard shortcut in VS Code to comment out a line of code? (Ask Gemini if you don't know!)**
-* *Type here...*
+* Using ctrl forward slash will automatically comment out the line of code you have selected.
 
 
 
@@ -95,11 +95,11 @@ Just like putting your name and date on a paper in English class, professional s
 ### 📝 Think & Record
 
 * **List three things you should always include in your comment block:**
-* *Type here...*
+* It is essential that you provide a description of what the file is for, who the author of the file is, and what version the file is on. Including these 3 things in your file header allows anyone who needs it in the future is up-to-date.
 
 
 * **Why would a developer find a comment block helpful when reviewing a script they wrote six months ago?**
-* *Type here...*
+* Providing a comment block helps anyone who views your code, both in the short-term and long-term. A comment block can help re-orient you after a long time away from your code and make it easier to find what you're looking for in the file.
 
 
 
